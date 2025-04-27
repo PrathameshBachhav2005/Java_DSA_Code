@@ -8,7 +8,7 @@ public class sum_of_oddNo
         System.out.println("Enter a No:-");
         int n=sc.nextInt();
         for(int i=1;i<=n;i++)
-        {
+        { 
             if(i%2==0)
            {
 
